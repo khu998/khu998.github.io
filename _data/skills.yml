@@ -70,7 +70,9 @@
 - name: media
   skills:
     - class: photoshop-plain
-      skill_name: Adobe Photoshop / Premiere
+      skill_name: Adobe Photoshop 
+    - class: premiere-plain
+      skill_name: Adobe Premiere Pro
 
 # - name: testing
 #   skills:
