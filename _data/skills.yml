@@ -30,6 +30,7 @@
     #  skill_name: MongoDB
     - class: mysql-plain
       skill_name: MySQL
+      skill_name: Splunk
 
 # - name: frontend frameworks
 #   skills:
@@ -59,6 +60,8 @@
       skill_name: Git
     - class: github-plain
       skill_name: GitHub
+    - class: visualstudio-plain
+      skill_name: Visual Studios
     # - class: heroku-original
     #   skill_name: Heroku
     # - class: docker-plain
@@ -66,10 +69,9 @@
 
 - name: media
   skills:
-    - class: premiere-plain
-      skill_name: Adobe Premiere 
     - class: photoshop-plain
-      skill_name: Adobe Photoshop
+      skill_name: Adobe Photoshop / Premiere
+
 # - name: testing
 #   skills:
 #     - class: mocha-plain
