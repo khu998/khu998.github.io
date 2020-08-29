@@ -13,7 +13,7 @@
                   postgresql-plain,
                   heroku-original
                 ]
-  cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
+  cover: /assets/images/project_covers/cfa-cover.jpg
   images: [
     '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
     '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
