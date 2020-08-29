@@ -4,12 +4,12 @@
       skill_name: HTML5
     - class: css3-plain
       skill_name: CSS3
-    - class: sass-plain
-      skill_name: SASS
-    - class: bootstrap-plain
-      skill_name: Bootstrap
-    - class: jquery-plain
-      skill_name: jQuery
+    #- class: sass-plain
+    #  skill_name: SASS
+    #- class: bootstrap-plain
+    #  skill_name: Bootstrap
+    #- class: jquery-plain
+    #  skill_name: jQuery
 
 - name: languages
   skills:
@@ -17,8 +17,10 @@
       skill_name: JavaScript
     - class: python-plain
       skill_name: Python
-    - class: ruby-plain
-      skill_name: Ruby
+    - class: java-plain
+      skill_name: Java
+    #- class: ruby-plain
+    #  skill_name: Ruby
 
 - name: databases
   skills:
