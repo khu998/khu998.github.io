@@ -6,7 +6,7 @@ projects:
   border: projects
 about:
   url: /about
-  heading: Me
+  heading: Kevin Huang
   words: Hi, I'm a programmer
   class: m5 about
   border: about
