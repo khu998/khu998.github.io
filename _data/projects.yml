@@ -1,23 +1,24 @@
 - id: 2
   title: Consult for America
   url: https://docs.google.com/presentation/d/17rXgcbBvMfhJ6VjxewRsI1x6eL8m2imRmiQNAWIDz8k/edit?usp=sharing
-  # github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
+  github_url: https://github.com/khu998/Consult-for-America-2020
   description: COVID-19 has distrupted all small businesses throughout the country. In this case competition, my team and I were given the task of creating an overarching strategy to help a local hibachi restaurant not only survive the pandemic, but also thrive in the aftermap of it.
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark
-                  javascript-plain,
-                  react-original,
-                  ruby-plain,
-                  rails-plain,
-                  postgresql-plain,
-                  heroku-original
+                  google-plain
+                  # html5-plain,
+                  # css3-plain-wordmark
+                  # javascript-plain,
+                  # react-original,
+                  # ruby-plain,
+                  # rails-plain,
+                  # postgresql-plain,
+                  # heroku-original
                 ]
   cover: /assets/images/project_covers/cfa-cover.jpg
   images: [
-    '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
+    '/assets/images/project_images/cfa/cfa-1.jpg',
+    '/assets/images/project_images/cfa/cfa-2.jpg',
+    '/assets/images/project_images/cfa/cfa-3.jpg'
   ]
 
 - id: 3
