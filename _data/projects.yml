@@ -1,4 +1,4 @@
-- id: 2
+- id: 1
   title: Consult for America
   url: https://docs.google.com/presentation/d/17rXgcbBvMfhJ6VjxewRsI1x6eL8m2imRmiQNAWIDz8k/edit?usp=sharing
   github_url: https://github.com/khu998/Consult-for-America-2020
@@ -22,7 +22,7 @@
   ]
 
 
-- id: 1
+- id: 2
   title: PackBuddy
   url: https://www.cs.drexel.edu/~kh853/CS338/PackBuddy/index.html
   github_url: https://github.com/khu998/CS338/tree/master/PackBuddy
@@ -34,11 +34,24 @@
                 ]
   cover: /assets/images/project_covers/packbuddy-0.JPG
   images: [
-    '/assets/images/project_images/packbuddy/packbuddy-0',
-    '/assets/images/project_images/packbuddy/packbuddy-1',
-    '/assets/images/project_images/packbuddy/packbuddy-2'
+    '/assets/images/project_images/packbuddy/packbuddy-0.JPG',
+    '/assets/images/project_images/packbuddy/packbuddy-1.JPG',
+    '/assets/images/project_images/packbuddy/packbuddy-2.JPG'
   ]
 
+- id: 3
+  title: SOTF - Minecraft Server
+  url: https://www.cs.drexel.edu/~kh853/CS338/PackBuddy/index.html
+  github_url: https://github.com/khu998/CS338/tree/master/PackBuddy
+  description: I've always wanted to start my own Minecraft server. So I did. Survival Of The Fittest (SOTF) is an live server with the IP (play.sotf.us). I built this server using PaperMC and many plugins that I've programmed to be compatiable with each other. The great significant amount of work was done using Denizen, a scripting language.
+  technologies: [
+                ]
+  cover: /assets/images/project_covers/sotf-1.png
+  images: [
+    '/assets/images/project_images/sotf/sotf-1.png',
+    '/assets/images/project_images/sotf/sotf-2.png',
+    '/assets/images/project_images/sotf/sotf-3.png'
+  ]
 
 # - id: 3
 #   title: Stack Overflow Clone
