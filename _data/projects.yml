@@ -21,39 +21,39 @@
     '/assets/images/project_images/cfa/cfa-3.JPG'
   ]
 
-- id: 3
-  title: Stack Overflow Clone
-  url: https://dbc-hackoverflow.herokuapp.com/
-  github_url: https://github.com/wvicioso/hackoverflow
-  description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
-  technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain,
-                  ruby-plain,
-                  sinatra-plain,
-                  postgresql-plain,
-                  heroku-original,
-                  materialize-plain
-                ]
-  cover: /assets/images/project_covers/hack-overflow-cover.png
-  images: [
-    '/assets/images/project_covers/hack-overflow-cover.png'
-  ]
-- id: 4
-  title: ShootThingsGame
-  url: https://levytsroman.github.io/shootThingsGame/
-  github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
-  technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain
-                ]
-  cover: /assets/images/project_covers/shoot-things-game-cover.png
-  images: [
-    '/assets/images/project_covers/shoot-things-game-cover.png'
-  ]
+# - id: 3
+#   title: Stack Overflow Clone
+#   url: https://dbc-hackoverflow.herokuapp.com/
+#   github_url: https://github.com/wvicioso/hackoverflow
+#   description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
+#   technologies: [
+#                   html5-plain,
+#                   css3-plain-wordmark,
+#                   javascript-plain,
+#                   ruby-plain,
+#                   sinatra-plain,
+#                   postgresql-plain,
+#                   heroku-original,
+#                   materialize-plain
+#                 ]
+#   cover: /assets/images/project_covers/hack-overflow-cover.png
+#   images: [
+#     '/assets/images/project_covers/hack-overflow-cover.png'
+#   ]
+# - id: 4
+#   title: ShootThingsGame
+#   url: https://levytsroman.github.io/shootThingsGame/
+#   github_url: https://github.com/LevytsRoman/shootThingsGame
+#   description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
+#   technologies: [
+#                   html5-plain,
+#                   css3-plain-wordmark,
+#                   javascript-plain
+#                 ]
+#   cover: /assets/images/project_covers/shoot-things-game-cover.png
+#   images: [
+#     '/assets/images/project_covers/shoot-things-game-cover.png'
+#   ]
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
 #   github_url: https://github.com/LevytsRoman/EngageMe
