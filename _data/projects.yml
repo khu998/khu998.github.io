@@ -34,8 +34,8 @@
                 ]
   cover: /assets/images/project_covers/packbuddy-0.JPG
   images: [
-    '/assets/images/project_images/packbuddy/packbuddy-0'
-    '/assets/images/project_images/packbuddy/packbuddy-1'
+    '/assets/images/project_images/packbuddy/packbuddy-0',
+    '/assets/images/project_images/packbuddy/packbuddy-1',
     '/assets/images/project_images/packbuddy/packbuddy-2'
   ]
 
