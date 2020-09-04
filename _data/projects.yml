@@ -16,9 +16,9 @@
                 ]
   cover: /assets/images/project_covers/cfa-cover.jpg
   images: [
-    '/assets/images/project_images/cfa/cfa-1.jpg',
-    '/assets/images/project_images/cfa/cfa-2.jpg',
-    '/assets/images/project_images/cfa/cfa-3.jpg'
+    '/assets/images/project_images/cfa/cfa-1.JPG',
+    '/assets/images/project_images/cfa/cfa-2.JPG',
+    '/assets/images/project_images/cfa/cfa-3.JPG'
   ]
 
 - id: 3
