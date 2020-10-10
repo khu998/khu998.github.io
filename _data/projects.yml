@@ -2,7 +2,7 @@
   title: Consult for America
   url: https://docs.google.com/presentation/d/17rXgcbBvMfhJ6VjxewRsI1x6eL8m2imRmiQNAWIDz8k/edit?usp=sharing
   github_url: https://github.com/khu998/Consult-for-America-2020
-  description: COVID-19 has distrupted all small businesses throughout the country. In this case competition, my team and I were given the task of creating an overarching strategy to help a local hibachi restaurant not only survive the pandemic, but also thrive in the aftermap of it.
+  description: COVID-19 has disrupted all small businesses throughout the country. In this case competition, my team and I were given the task of creating an overarching strategy to help a local hibachi restaurant not only survive the pandemic but also thrive in the aftermath of it.
   technologies: [
                   google-plain
                   # html5-plain,
@@ -26,7 +26,7 @@
   title: PackBuddy
   url: https://www.cs.drexel.edu/~kh853/CS338/PackBuddy/index.html
   github_url: https://github.com/khu998/CS338/tree/master/PackBuddy
-  description: Have you ever start preparing for a trip but have no idea what you're suppose to packed? Look no further, introducing PackBuddy. Click on the Live button to check it out. All you have to do is answer some questions and it will generate a list of things that you should pack on your trip. 
+  description: Have you ever start preparing for a trip but have no idea what you're suppose to packed? Look no further, introducing PackBuddy. Click on the Live button to check it out. All you have to do is answer some questions and it will generate a list of things that you should pack on your trip.
   technologies: [
                   html5-plain,
                   css3-plain-wordmark,
@@ -43,7 +43,7 @@
   title: SOTF - Minecraft Server
   url: https://www.cs.drexel.edu/~kh853/CS338/PackBuddy/index.html
   github_url: https://github.com/khu998/CS338/tree/master/PackBuddy
-  description: I've always wanted to start my own Minecraft server. So I did. Survival Of The Fittest (SOTF) is an live server with the IP (play.sotf.us). I built this server using PaperMC and many plugins that I've programmed to be compatiable with each other. The great significant amount of work was done using Denizen, a scripting language.
+  description: I've always wanted to start my own Minecraft server. So I did. Survival Of The Fittest (SOTF) is a live server with the IP (play.sotf.us). I built this server using PaperMC and many plugins that I've programmed to be compatible with each other. The great significant amount of work was done using Denizen, a scripting language.
   technologies: [
                 ]
   cover: /assets/images/project_covers/sotf-1.png
